@@ -128,6 +128,8 @@ nav a:hover, nav a:focus{
 }
 
  /* Step 16:Write the selector/rule property to update the .text-block class */
-.text-block{max-height: 235px;
+.text-block{
+     max-height: 235px;
      overflow: auto;
+}
 }
